@@ -12,9 +12,9 @@ picture: assets/images/DianaProfilES.png
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-#resume: true
-#resume-external: true
-#resume-url: https://google.com/?q=my+resume
+resume: false
+resume-external: false
+resume-url: assets/DianaFerriCV.pdf
 
 url: http://dianaferri.github.io
 # your url: http://USERNAME.github.io
