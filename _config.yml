@@ -1,6 +1,6 @@
 # main text of home
 name: Diana Ferri
-bio: My Bio
+bio: I am a lawyer with a strong focus on competition law, including merger control, anticompetitive agreements, abuse of dominance, state aid, and public procurement.
 
 # twitter summary info
 description: twitter description
@@ -42,7 +42,6 @@ permalink: /:title/
 linkedin: diana-ferri-2306a329
 # youtube: myyoutube
 # spotify: myspotify
-# github: dianaferri
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
